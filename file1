@@ -1,3 +1,4 @@
 repository on the system. To set these values, you must have the root rights and use the --system option.
 When the above code is compiled and executed, it produces the following result:
+Now, your working directory is clean and all the changes are saved on a stack. Let us verify it with the git status command
 
